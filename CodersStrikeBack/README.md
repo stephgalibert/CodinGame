@@ -2,7 +2,8 @@
 
 ## Rank
 League: **Legend**  
-Position in this league (worldwide): **548/693**
+Position in this league (worldwide): **548/693**   
+Position in all leagues (worldwide): **548/49166**
 
 ## URL
 
