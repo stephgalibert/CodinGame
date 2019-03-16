@@ -1,4 +1,4 @@
-# Coders strike back contest
+# Coders Strike Back - online contest
 
 ## Rank
 League: **Legend**  
