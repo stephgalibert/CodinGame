@@ -1,5 +1,6 @@
 # Coders strike back contest
 
 ## Rank
-Progression : Legend 
+Progression : Legend
+
 Position : 548/693
