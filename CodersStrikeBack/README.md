@@ -1,5 +1,5 @@
 # Coders strike back contest
 
 ## Rank
-Progression: **Legend**  
-Position: **548/693**
+League: **Legend**  
+Position in this league (worldwide): **548/693**
